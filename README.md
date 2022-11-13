@@ -13,12 +13,12 @@ The project can be accessed at https://niktern.github.io/Week1homework/
 ## Usage
 
 Screenshot of unfactored website:
-![refactored website screenshot](./Assets/images/01-html-css-git-homework-demo.png)
+![refactored website screenshot](./Assets/01-html-css-git-homework-demo.png)
 
 Screenshots of refactored website:
-![refactored website screenshot](./Assets/images/refactored-1.png)
-![refactored website screenshot](./Assets/images/refactored-2.png)
-![refactored website screenshot](./Assets/images/refactored-3.png)
+![refactored website screenshot](./Assets/refactored-1.png)
+![refactored website screenshot](./Assets/refactored-2.png)
+![refactored website screenshot](./Assets/refactored-3.png)
 
 ## Credits
 
