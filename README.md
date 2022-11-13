@@ -8,7 +8,7 @@ I learned the value of using a single CSS selector to target multiple elements t
 
 ## Installation
 
-The project can be accessed at https://niktern.github.io/Week1homework/
+The project can be accessed at https://niktern.github.io/Refactoring-Horiseon-Webpage/
 
 ## Usage
 
